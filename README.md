@@ -1,10 +1,10 @@
 # Group-Assignments
  Group Assignments for team Anabella CSCI 4550
 
-Last-Semester-Game
+Group Assignments
 
 To clone the repository:
-git clone " "
+git clone "https://github.com/hatcherj17/Group-Assignments"
 
 To commit/push changes:
 git add .
